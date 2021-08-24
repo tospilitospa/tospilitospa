@@ -1,4 +1,4 @@
-<h3 align="center">"Lülülü yazılımcı"</h3>
+<h3 align="center">"Başlangıç seviye yazılımcı"</h3>
 <a href="#" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tospilitospa&hide=contribs&show_icons=true&locale=en&theme=dark" alt="tospilitospa" />
 </a>
